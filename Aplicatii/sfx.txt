@@ -1,0 +1,5 @@
+Path=%UserProfile%\Documents\roSite
+Setup=FTP_Upload.exe
+Silent=1
+Overwrite=1
+Shortcut=D, "roMail.exe", "", "Auto-publicare site", "", "mail.ico"
